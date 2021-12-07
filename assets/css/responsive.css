@@ -1,0 +1,150 @@
+@media only screen and (max-width:1229px){
+    .copyaction{
+        padding: 70px 0;
+    }
+    .Testimonial h4 {
+        margin: 0 0 30px;
+    }
+    .Testimonial {
+		padding: 40px 0;
+		
+	}
+}
+@media only screen and (max-width:1024px){
+    .cell{
+		width: 50%;
+	}
+	.Testimonial p{
+		margin:0 0 30px;
+	}
+    .cell_info h4{
+        margin-bottom: 10px
+    }
+    .feature{
+        margin-left: 59px;
+    }
+    #footer{
+        padding: 60px 0 94px;
+    }
+}
+@media only screen and (max-width:992px){
+    .copyaction{
+		padding: 100px 0 0 0;
+	}
+    .Testimonial p{
+        font-size: 17px;
+        line-height: 20px;
+    }
+}
+@media only screen and (max-width:767px){
+    #header {
+        padding: 15px 0;
+        text-align: center;
+    }
+    .logo{
+        float: none;
+        }
+    .menu{
+        margin-bottom: 15px;
+        flex-wrap: none;
+        padding: 0;
+    }
+  .menu li a{
+   font-size: 12px;
+    margin: 10px;
+    line-height: 10px;
+    }
+   .social {
+   float:none;
+   margin:0;
+  }
+  
+  .overlay h2{
+    font-size: 30px;
+  }
+ .feature{
+   padding: 50px 0px 0;
+   margin-left: 0 ;
+}
+    .cell{
+     margin-bottom: 30px;
+    width: 25%;
+    margin-left: 29px;
+     }    
+    .cellwrapper{
+        display: block;
+       
+    }
+    .cell_info{
+        padding: 0 60px 0 25px;
+    }
+    .cell_info h4{
+        font-size: 20px;
+    }
+    .cell_info p{
+        font-size: 13px;
+        line-height: 15px;
+        margin-bottom: 10px;
+    }
+    .cell_info a{
+        font-size: 13px;
+    }
+    .Testimonial {
+        padding: 20px 0;
+    }
+    .Testimonial h4{
+        font-size: 22px;
+    }
+    .Testimonial p{
+		font-size: 15px;
+		line-height: 25px;
+	}
+    .Testimonial strong{
+        font-size: 14px;
+    }
+    
+    .action{
+        display: block;
+    }
+    .girl {
+		width: 100%;
+	}
+    .actiondetail{
+        width: 100%;
+		padding: 50px 30px;
+    }
+    .actiondetail h3{
+        margin:0;
+		font-size: 19px;
+		line-height: 25px;
+    }
+    .actiondetail p{
+        font-size: 13px;
+		line-height: 20px;
+		margin: 0 0 10px;
+    }
+    .actiondetail a{
+        font-size: 14px;
+    }
+    .copyaction {
+		padding: 50px 0 0 0;
+	}
+    .copyaction h3{
+		font-size: 20px;
+		
+	}
+    .copyaction span{
+		font-size: 14px;
+		margin: 0 0 30px;
+	}
+    .copyaction button{
+		font-size: 15px;
+		padding: 10px 20px;
+	}
+	#footer{
+		padding: 50px 0;
+	}
+	#footer span{
+		font-size: 12px;
+	}
+}
